@@ -1,0 +1,630 @@
+Info: CustomCategory:Team: 135 mini seconds publishing element
+Info: Guideline:Introduction to SDLC: 105 mini seconds publishing element
+Info: CustomCategory:Roles: 0 mini seconds publishing element
+Info: Role:Business Analyst: 30 mini seconds publishing element
+Info: Role:Configuration Controller: 30 mini seconds publishing element
+Info: Role:Developer: 30 mini seconds publishing element
+Info: Role:Process Engineer: 30 mini seconds publishing element
+Info: Role:Process Quality Assurance Engineer: 15 mini seconds publishing element
+Info: Role:Project Manager (PM): 60 mini seconds publishing element
+Info: Role:Solution Architect: 30 mini seconds publishing element
+Info: Role:Tester: 15 mini seconds publishing element
+Info: CustomCategory:Templates: 15 mini seconds publishing element
+Info: Template:Audit Reports: 135 mini seconds publishing element
+Info: Template:Base line Report: 15 mini seconds publishing element
+Info: Template:Business Case: 15 mini seconds publishing element
+Info: Template:Change Request: 15 mini seconds publishing element
+Info: Template:Configuration Audit Report: 30 mini seconds publishing element
+Info: Template:Configuration Management Plan: 0 mini seconds publishing element
+Info: Template:Customer Requirements: 15 mini seconds publishing element
+Info: Template:Decision Analysis Template: 15 mini seconds publishing element
+Info: Template:Defect Analysis Report: 15 mini seconds publishing element
+Info: Template:Meeting Minutes Form: 0 mini seconds publishing element
+Info: Template:Peer Reviews: 15 mini seconds publishing element
+Info: Template:Phase Closure: 15 mini seconds publishing element
+Info: Template:Project Charter: 15 mini seconds publishing element
+Info: Template:Project Completion Certificate: 15 mini seconds publishing element
+Info: Template:Project Plan: 15 mini seconds publishing element
+Info: Template:Project Statment of Work: 15 mini seconds publishing element
+Info: Template:Project Status Report: 0 mini seconds publishing element
+Info: Template:QA on Process Audit Report: 30 mini seconds publishing element
+Info: Template:Release Note: 15 mini seconds publishing element
+Info: Template:Release Plan: 0 mini seconds publishing element
+Info: Template:Service Level Agreement (SLA): 0 mini seconds publishing element
+Info: Template:Software Test Plan: 15 mini seconds publishing element
+Info: Template:Solution Architecture Document: 15 mini seconds publishing element
+Info: Template:Tailoring Request: 15 mini seconds publishing element
+Info: Template:Transtion Plan: 15 mini seconds publishing element
+Info: Template:User Manual: 15 mini seconds publishing element
+Info: Template:WPS: 15 mini seconds publishing element
+Info: CustomCategory:Policies: 15 mini seconds publishing element
+Info: Guideline:Analysis and Requirement Policy: 30 mini seconds publishing element
+Info: Guideline:Change Request Analysis Policy: 15 mini seconds publishing element
+Info: Guideline:Configuration Management Policy: 60 mini seconds publishing element
+Info: Guideline:Decision Analysis and Resolution Plicy: 45 mini seconds publishing element
+Info: Whitepaper:Deployment Guidelines: 15 mini seconds publishing element
+Info: Guideline:Lessons Learned Policy: 15 mini seconds publishing element
+Info: Guideline:Measurement and Analysis Policy: 30 mini seconds publishing element
+Info: Guideline:Product Integration Policy: 15 mini seconds publishing element
+Info: Guideline:Quality Assurance Policy: 30 mini seconds publishing element
+Info: Guideline:Risk Management Policy: 45 mini seconds publishing element
+Info: Guideline:Software Development Policy: 105 mini seconds publishing element
+Info: Guideline:Software Project Organization Policy: 255 mini seconds publishing element
+Info: Guideline:Solution Architecture Policy: 45 mini seconds publishing element
+Info: Guideline:Solution Review Policy: 30 mini seconds publishing element
+Info: Guideline:Solution Sizing Policy: 15 mini seconds publishing element
+Info: Guideline:Tailoring Policy: 15 mini seconds publishing element
+Info: Guideline:Testing Policy: 30 mini seconds publishing element
+Info: SupportingMaterial:UX and UI Policy: 15 mini seconds publishing element
+Info: Guideline:Work Breakdown Structure Policy: 15 mini seconds publishing element
+Info: SupportingMaterial:Work Environment Standards: 135 mini seconds publishing element
+Info: CustomCategory:Lifecycle: 30 mini seconds publishing element
+Info: : 2309 mini-second(s) publishing element DeliveryProcess:Typical Lifecycle[SDLC\deliveryprocesses\Typical Lifecycle_FBEFD915.html]
+Info: DeliveryProcess:Typical Lifecycle: 2309 mini seconds publishing element
+Info: DeliveryProcess:Typical Lifecycle: 1065 mini seconds publishing process specific layout data
+Info: Phase:Envision & Agile Planning: 270 mini seconds publishing element
+Info: Activity:Conceive New Software Project: 105 mini seconds publishing element
+Info: Activity:Plan the Software Project: 60 mini seconds publishing element
+Info: Activity:Define the System: 90 mini seconds publishing element
+Info: Activity:Monitor and Control Phase Execution: 105 mini seconds publishing element
+Info: Activity:Manage Changes: 120 mini seconds publishing element
+Info: Activity:Create Solution Architecture and Graphic Design: 135 mini seconds publishing element
+Info: Activity:Complete Phase Closing: 90 mini seconds publishing element
+Info: Phase:Agile Building: 270 mini seconds publishing element
+Info: Activity:Monitor and Control Phase Execution: 90 mini seconds publishing element
+Info: Activity:Manage Changes: 150 mini seconds publishing element
+Info: Activity:Complete Phase Closing: 90 mini seconds publishing element
+Info: Activity:Sprint Execution : 105 mini seconds publishing element
+Info: Phase:Closing: 165 mini seconds publishing element
+Info: Activity:Monitor and Control Phase Execution: 90 mini seconds publishing element
+Info: Activity:Manage Changes: 150 mini seconds publishing element
+Info: Activity:Complete Phase Closing: 90 mini seconds publishing element
+Info: Artifact:Customer Requiremens: 150 mini seconds publishing element
+Info: Artifact:Peer Reviews Document: 15 mini seconds publishing element
+Info: Artifact:User Manual: 15 mini seconds publishing element
+Info: Task:Define Customer Requirements: 105 mini seconds publishing element
+Info: Task:Develop User Manual: 15 mini seconds publishing element
+Info: Task:Review Customer Requirements Document: 0 mini seconds publishing element
+Info: Artifact:Base line Report: 15 mini seconds publishing element
+Info: Artifact:Client Workspaces: 0 mini seconds publishing element
+Info: Artifact:Configuration Audit Report: 15 mini seconds publishing element
+Info: Artifact:Configuration Management Plan: 0 mini seconds publishing element
+Info: Artifact:Project Workspaces: 0 mini seconds publishing element
+Info: Artifact:Source Control: 15 mini seconds publishing element
+Info: Task:Baseline Configuration Items: 15 mini seconds publishing element
+Info: Task:Establish Baseline Project’s Work Environment: 0 mini seconds publishing element
+Info: Task:Establish Configuration Management Plan: 15 mini seconds publishing element
+Info: Task:Establish Initial Project’s Work Environment: 0 mini seconds publishing element
+Info: Task:Maintain Configuration Management Repository: 30 mini seconds publishing element
+Info: Task:Perform Configuration Audit: 0 mini seconds publishing element
+Info: Artifact:Build: 15 mini seconds publishing element
+Info: Artifact:Email: 0 mini seconds publishing element
+Info: Artifact:Release Note: 0 mini seconds publishing element
+Info: Artifact:Subsystem: 15 mini seconds publishing element
+Info: Task:Data Base Design: 15 mini seconds publishing element
+Info: Task:Development: 0 mini seconds publishing element
+Info: Task:Integrate Subsystems: 15 mini seconds publishing element
+Info: Task:Integrate System: 0 mini seconds publishing element
+Info: Task:Perform Unit Test: 15 mini seconds publishing element
+Info: Artifact:Test Log: 0 mini seconds publishing element
+Info: Artifact:Process Audit Report: 0 mini seconds publishing element
+Info: Artifact:Tailoring Request: 15 mini seconds publishing element
+Info: Task:Change and Deliver Impacted Work Products: 15 mini seconds publishing element
+Info: Task:Process Improvement Suggestion: 0 mini seconds publishing element
+Info: Task:Tailor and Establish Project’s Process: 15 mini seconds publishing element
+Info: Artifact:Process Asset Library (PAL): 15 mini seconds publishing element
+Info: Task:Perform Quality Assurance Audit: 15 mini seconds publishing element
+Info: Task:Create Release Note: 0 mini seconds publishing element
+Info: Task:Perform System Test: 15 mini seconds publishing element
+Info: Artifact:Business Case: 0 mini seconds publishing element
+Info: Artifact:Change Requests: 30 mini seconds publishing element
+Info: Artifact:Defect Analysis Report: 0 mini seconds publishing element
+Info: Artifact:Issues: 15 mini seconds publishing element
+Info: Artifact:Lessons Learned: 30 mini seconds publishing element
+Info: Artifact:Measurement Reports: 0 mini seconds publishing element
+Info: Artifact:Phase Closure: 0 mini seconds publishing element
+Info: Artifact:Project Plan: 15 mini seconds publishing element
+Info: Artifact:Project Schedule: 15 mini seconds publishing element
+Info: Artifact:Risk List: 15 mini seconds publishing element
+Info: Artifact:Software Project Status Report: 15 mini seconds publishing element
+Info: Artifact:Work Breakdown Structure (WBS): 0 mini seconds publishing element
+Info: Task:Assess and Monitor Project Status and Progress: 15 mini seconds publishing element
+Info: Task:Close-Out Phase: 15 mini seconds publishing element
+Info: Task:Establish Project Plan: 0 mini seconds publishing element
+Info: Task:Evaluate Project Scope: 15 mini seconds publishing element
+Info: Task:Handle Exceptions and Issues: 15 mini seconds publishing element
+Info: Task:Identify and Assess Risks: 0 mini seconds publishing element
+Info: Task:Make Decision on Change Requests: 15 mini seconds publishing element
+Info: Task:Manage Lessons Learned: 15 mini seconds publishing element
+Info: Task:Obtain and Prepare Measurement Data: 15 mini seconds publishing element
+Info: Task:Refine Project Plans: 0 mini seconds publishing element
+Info: Task:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: Task:Study Requested Changes Impact: 15 mini seconds publishing element
+Info: Task:Verify Product Quality: 0 mini seconds publishing element
+Info: Artifact:Tasks: 30 mini seconds publishing element
+Info: Artifact:Solution Architetct Document: 0 mini seconds publishing element
+Info: Artifact:User stories: 15 mini seconds publishing element
+Info: Task:Create Solution Architecture: 0 mini seconds publishing element
+Info: Task:Create Solution Architecture1: 15 mini seconds publishing element
+Info: Task:Perform Technical Review on Solution Architecture: 0 mini seconds publishing element
+Info: Artifact:Bugs: 15 mini seconds publishing element
+Info: Artifact:Test Cases: 0 mini seconds publishing element
+Info: Task:Maintain Test Cases: 15 mini seconds publishing element
+Info: Task:Production Test: 0 mini seconds publishing element
+Info: Task:QC Testing: 0 mini seconds publishing element
+Info: Artifact:Decision Analysis Template: 15 mini seconds publishing element
+Info: Artifact:Meeting Minutes Form: 0 mini seconds publishing element
+Info: Artifact:Project Charter: 15 mini seconds publishing element
+Info: Artifact:Project Completion Certificate: 0 mini seconds publishing element
+Info: Artifact:Project Statement Of Work: 15 mini seconds publishing element
+Info: Artifact:QA on Process Audit Report: 0 mini seconds publishing element
+Info: Artifact:Release Plan: 0 mini seconds publishing element
+Info: Artifact:Release Plan: 15 mini seconds publishing element
+Info: Artifact:Software Test Plan: 0 mini seconds publishing element
+Info: Artifact:Backlog: 15 mini seconds publishing element
+Info: Task:Create Backlog: 0 mini seconds publishing element
+Info: Discipline:Requirements: 15 mini seconds publishing element
+Info: Task:Review Backlog: 0 mini seconds publishing element
+Info: Artifact:Screen Mockups: 15 mini seconds publishing element
+Info: Artifact:User Manual: 0 mini seconds publishing element
+Info: Template:User Manual: 0 mini seconds publishing element
+Info: Role:Development Team Leader: 30 mini seconds publishing element
+Info: Discipline:Project Management: 0 mini seconds publishing element
+Info: Role:Projects Management Officer (PMO): 15 mini seconds publishing element
+Info: Discipline:Configuration Management: 15 mini seconds publishing element
+Info: Role:Deployment and Support Engineer: 15 mini seconds publishing element
+Info: Task:Promote Build to Testing Environment: 15 mini seconds publishing element
+Info: Task:Promote Release to Production Environment: 0 mini seconds publishing element
+Info: Task:Deployment Instructions: 15 mini seconds publishing element
+Info: Task:Perform Code Review: 0 mini seconds publishing element
+Info: Discipline:Development: 0 mini seconds publishing element
+Info: Discipline:Quality Assurance (QA): 15 mini seconds publishing element
+Info: Task:Backlog Grooming: 0 mini seconds publishing element
+Info: Task:Perform Component Integration Test: 15 mini seconds publishing element
+Info: Artifact:Product: 0 mini seconds publishing element
+Info: Task:Release Planning: 15 mini seconds publishing element
+Info: Task:Sprint Planning: 15 mini seconds publishing element
+Info: Task:Sprint Retrospective: 0 mini seconds publishing element
+Info: Task:Sprint Review: 15 mini seconds publishing element
+Info: Artifact:Web Pages: 0 mini seconds publishing element
+Info: Task:Initiate Project: 0 mini seconds publishing element
+Info: Artifact:Project SOW: 15 mini seconds publishing element
+Info: Task:Start Project Activities: 0 mini seconds publishing element
+Info: Discipline:Architecture: 0 mini seconds publishing element
+Info: Artifact:Branding, Structure ,Web-Parts, Business Entities , Data Access , Business Management ,Services: 0 mini seconds publishing element
+Info: Artifact:Demo: 0 mini seconds publishing element
+Info: Artifact:Graphic Design Package: 0 mini seconds publishing element
+Info: Artifact:Prototype: 15 mini seconds publishing element
+Info: Role:Solution Architect Manager: 15 mini seconds publishing element
+Info: Role:Solution Designer: 15 mini seconds publishing element
+Info: Role:UX and UI: 15 mini seconds publishing element
+Info: Task:Assign Team: 0 mini seconds publishing element
+Info: Task:Perform review on Graphic Design-UI: 15 mini seconds publishing element
+Info: Task:Perform Technical Peer Review on Test Case: 0 mini seconds publishing element
+Info: Artifact:Project sizing: 15 mini seconds publishing element
+Info: Task:Establish Software Test Plan: 0 mini seconds publishing element
+Info: Task:Review Software Test Plan: 15 mini seconds publishing element
+Info: Discipline:Testing (QC): 0 mini seconds publishing element
+Info: Role:Test Manager (QC): 30 mini seconds publishing element
+Info: Role:Test Team leader (QC): 30 mini seconds publishing element
+Info: Task:UX & UI: 15 mini seconds publishing element
+Info: Discipline:UX and UI: 0 mini seconds publishing element
+Info: TaskDescriptor:Initiate Project: 105 mini seconds publishing element
+Info: TaskDescriptor:Establish Initial Project’s Work Environment: 0 mini seconds publishing element
+Info: TaskDescriptor:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: TaskDescriptor:Define Customer Requirements: 0 mini seconds publishing element
+Info: TaskDescriptor:Review Customer Requirements Document: 15 mini seconds publishing element
+Info: TaskDescriptor:Evaluate Project Scope: 15 mini seconds publishing element
+Info: TaskDescriptor:Establish Configuration Management Plan: 0 mini seconds publishing element
+Info: TaskDescriptor:Establish Project Plan: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Technical Review on Solution Architecture: 15 mini seconds publishing element
+Info: TaskDescriptor:Create Backlog: 0 mini seconds publishing element
+Info: TaskDescriptor:Review Backlog: 30 mini seconds publishing element
+Info: TaskDescriptor:Create Solution Architecture: 0 mini seconds publishing element
+Info: TaskDescriptor:Assess and Monitor Project Status and Progress: 0 mini seconds publishing element
+Info: TaskDescriptor:Handle Exceptions and Issues: 15 mini seconds publishing element
+Info: TaskDescriptor:Identify and Assess Risks: 0 mini seconds publishing element
+Info: TaskDescriptor:Manage Lessons Learned: 15 mini seconds publishing element
+Info: TaskDescriptor:Obtain and Prepare Measurement Data: 15 mini seconds publishing element
+Info: TaskDescriptor:Study Requested Changes Impact: 15 mini seconds publishing element
+Info: TaskDescriptor:Change and Deliver Impacted Work Products: 15 mini seconds publishing element
+Info: TaskDescriptor:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: TaskDescriptor:Make Decision on Change Requests: 15 mini seconds publishing element
+Info: TaskDescriptor:Tailor and Establish Project’s Process: 0 mini seconds publishing element
+Info: TaskDescriptor:Maintain Configuration Management Repository: 15 mini seconds publishing element
+Info: TaskDescriptor:Establish Software Test Plan: 15 mini seconds publishing element
+Info: TaskDescriptor:Review Software Test Plan: 0 mini seconds publishing element
+Info: TaskDescriptor:Assign Team: 15 mini seconds publishing element
+Info: TaskDescriptor:Create Release Plan: 14 mini seconds publishing element
+Info: TaskDescriptor:Backlog Grooming: 15 mini seconds publishing element
+Info: TaskDescriptor:Maintain Test Cases: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Technical Peer Review on Test Case: 0 mini seconds publishing element
+Info: TaskDescriptor:Review Release Plan: 15 mini seconds publishing element
+Info: TaskDescriptor:Close-Out Phase: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Quality Assurance Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Configuration Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Baseline Configuration Items: 0 mini seconds publishing element
+Info: TaskDescriptor:Assess and Monitor Project Status and Progress: 15 mini seconds publishing element
+Info: TaskDescriptor:Handle Exceptions and Issues: 15 mini seconds publishing element
+Info: TaskDescriptor:Identify and Assess Risks: 15 mini seconds publishing element
+Info: TaskDescriptor:Manage Lessons Learned: 15 mini seconds publishing element
+Info: TaskDescriptor:Obtain and Prepare Measurement Data: 0 mini seconds publishing element
+Info: TaskDescriptor:Study Requested Changes Impact: 15 mini seconds publishing element
+Info: TaskDescriptor:Change and Deliver Impacted Work Products: 15 mini seconds publishing element
+Info: TaskDescriptor:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: TaskDescriptor:Make Decision on Change Requests: 15 mini seconds publishing element
+Info: TaskDescriptor:Tailor and Establish Project’s Process: 15 mini seconds publishing element
+Info: TaskDescriptor:Maintain Configuration Management Repository: 0 mini seconds publishing element
+Info: TaskDescriptor:Close-Out Phase: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Quality Assurance Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Configuration Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Baseline Configuration Items: 15 mini seconds publishing element
+Info: TaskDescriptor:Design: 0 mini seconds publishing element
+Info: TaskDescriptor:Development: 15 mini seconds publishing element
+Info: TaskDescriptor:Promote Build to Testing Environment: 15 mini seconds publishing element
+Info: TaskDescriptor:QC Testing: 15 mini seconds publishing element
+Info: TaskDescriptor:UX & UI: 15 mini seconds publishing element
+Info: TaskDescriptor:Data Base Design: 0 mini seconds publishing element
+Info: TaskDescriptor:Perform Code Review: 15 mini seconds publishing element
+Info: TaskDescriptor:Sprint Planning: 15 mini seconds publishing element
+Info: RoleDescriptor:Scrum Master: 105 mini seconds publishing element
+Info: TaskDescriptor:Sprint Review: 0 mini seconds publishing element
+Info: TaskDescriptor:Sprint Retrospective: 15 mini seconds publishing element
+Info: TaskDescriptor:Verify Product Quality: 0 mini seconds publishing element
+Info: TaskDescriptor:Assess and Monitor Project Status and Progress: 15 mini seconds publishing element
+Info: TaskDescriptor:Handle Exceptions and Issues: 15 mini seconds publishing element
+Info: TaskDescriptor:Identify and Assess Risks: 15 mini seconds publishing element
+Info: TaskDescriptor:Manage Lessons Learned: 0 mini seconds publishing element
+Info: TaskDescriptor:Obtain and Prepare Measurement Data: 15 mini seconds publishing element
+Info: TaskDescriptor:Study Requested Changes Impact: 15 mini seconds publishing element
+Info: TaskDescriptor:Change and Deliver Impacted Work Products: 15 mini seconds publishing element
+Info: TaskDescriptor:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: TaskDescriptor:Make Decision on Change Requests: 15 mini seconds publishing element
+Info: TaskDescriptor:Tailor and Establish Project’s Process: 0 mini seconds publishing element
+Info: TaskDescriptor:Maintain Configuration Management Repository: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Quality Assurance Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Perform Configuration Audit: 15 mini seconds publishing element
+Info: TaskDescriptor:Baseline Configuration Items: 15 mini seconds publishing element
+Info: TaskDescriptor:Close-Out Project: 0 mini seconds publishing element
+Info: TaskDescriptor:Develop User Manual: 15 mini seconds publishing element
+Info: RoleDescriptor:Business Analyst: 30 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:Scrum Master: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Backlog: 135 mini seconds publishing element
+Info: WorkProductDescriptor:Product: 15 mini seconds publishing element
+Info: WorkProductDescriptor:User Manual: 0 mini seconds publishing element
+Info: TaskDescriptor:Process Improvement Suggestion: 0 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Process Audit Report: 15 mini seconds publishing element
+Info: RoleDescriptor:Business Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:Business-System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: RoleDescriptor:Demand Manager: 15 mini seconds publishing element
+Info: RoleDescriptor:Deployment and Support Engineer: 0 mini seconds publishing element
+Info: RoleDescriptor:Developer: 15 mini seconds publishing element
+Info: RoleDescriptor:Development Team Leader: 15 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 0 mini seconds publishing element
+Info: RoleDescriptor:Process Quality Assurance Engineer: 15 mini seconds publishing element
+Info: RoleDescriptor:Product Owner (PO): 15 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: RoleDescriptor:Projects Management Officer (PMO): 15 mini seconds publishing element
+Info: RoleDescriptor:Scrum Master: 15 mini seconds publishing element
+Info: RoleDescriptor:Scrum Team: 0 mini seconds publishing element
+Info: RoleDescriptor:Solution Architect: 15 mini seconds publishing element
+Info: RoleDescriptor:Solution Architect Manager: 0 mini seconds publishing element
+Info: RoleDescriptor:Solution Designer: 15 mini seconds publishing element
+Info: RoleDescriptor:System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:System Analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:System Analyst: 0 mini seconds publishing element
+Info: RoleDescriptor:Technical Delivery Lead: 15 mini seconds publishing element
+Info: RoleDescriptor:Technical Delivery Manager: 15 mini seconds publishing element
+Info: RoleDescriptor:Test Manager (QC): 30 mini seconds publishing element
+Info: RoleDescriptor:Test Team leader (QC): 15 mini seconds publishing element
+Info: RoleDescriptor:Tester: 0 mini seconds publishing element
+Info: RoleDescriptor:UX and UI: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Backlog: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Base line Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Bugs: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Build: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Business Case: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Customer Requiremens: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Deployment Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Email: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Graphic Design Package: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Meeting Minutes Form: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Phase Closure: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library (PAL): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Process Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Product: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Completion Certificate: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project SOW: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Proposal: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Prototype: 0 mini seconds publishing element
+Info: WorkProductDescriptor:QA on Process Audit Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Release Note: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Release Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Service Level Agreement (SLA): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Test Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Solution Architetct Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Subsystem: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Test Cases: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Test Log: 15 mini seconds publishing element
+Info: WorkProductDescriptor:User Manual: 15 mini seconds publishing element
+Info: WorkProductDescriptor:User stories: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Work Breakdown Structure (WBS): 15 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 0 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Business Case: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Customer Requiremens: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Work Breakdown Structure (WBS): 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Customer Requiremens: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 15 mini seconds publishing element
+Info: RoleDescriptor:Product Owner (PO): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Meeting Minutes Form: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Service Level Agreement (SLA): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 0 mini seconds publishing element
+Info: RoleDescriptor:Demand Manager: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Work Breakdown Structure (WBS): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 0 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Backlog: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Customer Requiremens: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Solution Architetct Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: RoleDescriptor:Demand Manager: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Meeting Minutes Form: 0 mini seconds publishing element
+Info: RoleDescriptor:Product Owner (PO): 15 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Phase Closure: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 0 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: RoleDescriptor:Demand Manager: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Work Breakdown Structure (WBS): 0 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library (PAL): 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 30 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 0 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 30 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Email: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Phase Closure: 15 mini seconds publishing element
+Info: RoleDescriptor:Process Quality Assurance Engineer: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Process Audit Report: 0 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 30 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Base line Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Backlog: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Solution Architetct Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:User stories: 15 mini seconds publishing element
+Info: RoleDescriptor:Scrum Master: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Email: 0 mini seconds publishing element
+Info: RoleDescriptor:Tester: 30 mini seconds publishing element
+Info: WorkProductDescriptor:Software Test Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Test Cases: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Graphic Design Package: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Prototype: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Solution Architetct Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Test Log: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 30 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 0 mini seconds publishing element
+Info: RoleDescriptor:Project Manager (PM): 30 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 15 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: RoleDescriptor:Demand Manager: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Charter: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Work Breakdown Structure (WBS): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library (PAL): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 15 mini seconds publishing element
+Info: RoleDescriptor:Process Quality Assurance Engineer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Process Audit Report: 15 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Base line Report: 0 mini seconds publishing element
+Info: RoleDescriptor:Projects Management Officer (PMO): 15 mini seconds publishing element
+Info: WorkProductDescriptor:Change Requests: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Phase Closure: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Tailoring Request: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Issues: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Measurement Reports: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Plan: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Risk List: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Software Project Status Report: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Tasks: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Project Statement Of Work: 0 mini seconds publishing element
+Info: WorkProductType:Requirements: 15 mini seconds publishing element
+Info: WorkProductType:Project Management: 0 mini seconds publishing element
+Info: Role:Product Owner (PO): 30 mini seconds publishing element
+Info: Role:Scrum Master: 30 mini seconds publishing element
+Info: Role:Technical Delivery Manager: 15 mini seconds publishing element
+Info: Task:Close-Out Project: 0 mini seconds publishing element
+Info: Task:Review Release Plan: 15 mini seconds publishing element
+Info: Artifact:Service Level Agreement (SLA): 0 mini seconds publishing element
+Info: WorkProductType:Configuration Management: 0 mini seconds publishing element
+Info: WorkProductType:Development: 0 mini seconds publishing element
+Info: Guideline:Release Note Policy: 0 mini seconds publishing element
+Info: WorkProductType:Testing: 15 mini seconds publishing element
+Info: Role:Demand Manager: 15 mini seconds publishing element
+Info: Task:Create Release Plan: 0 mini seconds publishing element
+Info: Task:Design: 15 mini seconds publishing element
+Info: Role:Agile Cotch: 15 mini seconds publishing element
+Info: Role:Technical Delivery Lead: 15 mini seconds publishing element
+Info: Artifact:Deployment Document: 0 mini seconds publishing element
+Info: Role:Scrum Team: 0 mini seconds publishing element
+Info: Discipline:Delivery: 0 mini seconds publishing element
+Info: Discipline:Scrum: 15 mini seconds publishing element
+Info: Template:Project SOW: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Peer Reviews Document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library (PAL): 15 mini seconds publishing element
+Info: Discipline:Design: 0 mini seconds publishing element
+Info: : Publishing time: 0 minutes 17 seconds
